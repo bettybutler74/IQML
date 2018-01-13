@@ -1,0 +1,4 @@
+date	time	group	subject	blockcode	blocknum	trialcode	trialnum	response	correct	latency	stimulusnumber1	stimulusitem1	expressions.da	expressions.db	expressions.d	expressions.percentcorrect
+011318	17:09:52	1	1	targetcompatiblepractice	1	targetAleft	2	18	1	676	6	时尚			0	0
+011318	17:09:52	1	1	targetcompatiblepractice	1	targetAleft	3	18	1	358	5	悠闲			0	0
+011318	17:09:52	1	1	targetcompatiblepractice	1	targetBright	4	Ctrl+'Q'	1	116	2	乏味			0	0
